@@ -1,0 +1,43 @@
+.card-restaurant{
+  background: white;
+  border-radius: 5px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  margin: 10px;
+  flex-grow: 1;
+  flex-basis: 150px;
+}
+
+.card-restaurant img{
+  width: 150px;
+  height: 150px;
+}
+
+.card-restaurant a {
+  text-decoration: none;
+}
+
+.card-referral {
+  border-radius: 5px;
+  text-align: left;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  margin: 10px;
+  display: flex;
+
+}
+
+.card-referral img {
+  width: 150px;
+  height: 150px;
+  margin: 20px 30px 0 0;
+  text-align: right;
+  flex-shrink: 0;
+}
+

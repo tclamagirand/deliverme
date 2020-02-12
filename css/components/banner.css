@@ -1,0 +1,42 @@
+.banner-homepage{
+  background-image:     linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.5) 50%), url(../../images/borgar2.jpg);
+  background-position: center;
+  padding: 150 0;
+}
+
+  .banner-right img {
+  height: 100vh;
+  width: 45vw;
+  object-fit: cover;
+}
+
+
+
+  .banner-left{
+    width: 45vw;
+    float: left;
+  }
+
+.banner-small {
+background-image:     linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.5) 50%), url(../../images/borgar2.jpg);
+  background-position: center;
+  padding-top: 10px;
+
+}
+
+@media (max-width: 1400px) {
+    .banner-right {
+        width: 20vw;
+        }
+        .banner-left {
+          width: 60vw;
+        }
+        }
+
+@media (max-width: 1000px) {
+        .banner-right {
+          display: none;
+        }
+
+        }
+        }

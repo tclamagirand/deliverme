@@ -1,0 +1,35 @@
+.navigation-bar{
+  list-style-type: none;
+  margin: 0;
+  padding-bottom:160 ;
+}
+
+
+
+.navigation-bar-button {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 30px;
+  margin-right: 10px;
+  background-color: #EF5466;
+  border-radius: 5px;
+
+}
+
+.navigation-bar a {
+  text-decoration: none;
+  color: white;
+}
+
+.navigation-bar-button:hover {
+  text-decoration: none;
+  background-color:#2D96C8;
+  transition: 0.3s background-color ease;
+
+}
+
+#logo{
+  font-size: 48px;
+}
+

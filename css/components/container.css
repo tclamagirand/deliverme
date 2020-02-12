@@ -1,0 +1,27 @@
+.container {
+  max-width: 800px;
+  margin: 40px auto;
+}
+
+.container-half {
+  width: 700px;
+  margin: 40px 140px;
+  margin-bottom: 100px;
+}
+
+.container-half-smaller {
+  margin: 40px 140px;
+  margin-bottom: 100px;
+}
+
+.main-container {
+  width: 100%;
+}
+
+
+@media (max-width: 1000px) {
+  .container-half-smaller {
+    width:100%;
+  }
+
+}

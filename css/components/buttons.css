@@ -1,0 +1,48 @@
+.button {
+  background-color: #ef5466;
+  border-radius: 5px;
+  padding: 10 10;
+  color: white;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: bolder;
+  margin: 48px 0px;
+  text-decoration: none;
+}
+
+.button:hover {
+  text-decoration: none;
+  background-color: #2d96c8;
+  transition: 0.3s background-color ease;
+}
+
+.button-form {
+  width: 75%;
+  background-color: #ef5466;
+  padding: 10 0;
+  color: white;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: bolder;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.button-form-full {
+  width: 100%;
+  background-color: #ef5466;
+  padding: 10 0;
+  color: white;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: bolder;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.button:hover {
+  text-decoration: none;
+  background-color: #2d96c8;
+  transition: 0.3s background-color ease;
+}

@@ -1,0 +1,23 @@
+#bottom-links{
+  padding:30px;
+  text-align: center;
+}
+
+#bottom-links ul {
+  list-style: none;
+  padding-left: 0px;
+}
+
+#bottom-links li {
+  display:inline;
+  padding:0px 20px;
+}
+
+#bottom-links i {
+  font-size: 50px
+}
+
+i:hover {
+  color:#2D96C8;
+  transition: 0.3s color ease;
+}

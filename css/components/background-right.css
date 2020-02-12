@@ -1,0 +1,7 @@
+.banner-right{
+  background: linear-gradient(180deg, rgba(45, 150, 200, 0.2) 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(0deg, rgba(19, 15, 19, 0.37), rgba(19, 15, 19, 0.37)), url(../../images/borgar2.jpg), #C4C4C4;
+  float:right;
+  height: 150px;
+}
+
+
